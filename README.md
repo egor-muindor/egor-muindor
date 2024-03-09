@@ -1,16 +1,19 @@
-### Hi there 👋
+# Egor Muindor's GitHub Profile
 
-<!--
-**egor-muindor/egor-muindor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! 👋
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am Egor Fadeev, a backend developer. I am passionate about smart home technology and implementing LLM in various common processes. I have expertise in Golang, PHP (primary Laravel), PostgreSQL, and Docker.
+
+## Contact Me
+
+You can reach me via:
+
+- Telegram: https://t.me/rintaro_saikawa
+- LinkedIn: https://www.linkedin.com/in/egor-muindor-fadeev/
+- Email: github@muindor.com
+
+## Let's Connect
+
+Feel free to connect with me. I'm always open to collaboration and new opportunities!
