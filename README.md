@@ -10,7 +10,7 @@ I am Egor Fadeev, a backend developer. I am passionate about smart home technolo
 
 You can reach me via:
 
-- Telegram: https://t.me/rintaro_saikawa
+- Telegram: https://t.me/Muindor
 - LinkedIn: https://www.linkedin.com/in/egor-muindor-fadeev/
 - Email: github@muindor.com
 
